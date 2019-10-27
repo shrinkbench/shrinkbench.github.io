@@ -1,3 +1,5 @@
+## ShrinkBench
+
 <style>
 body {
     font-family: "Fira Sans", "Helvetica Neue", "Helvetica";
@@ -5,8 +7,6 @@ body {
     font-size: 14pt;
 }
 </style>
-
-## ShrinkBench
 
 Open source PyTorch library to facilitate development and  standardized evaluation of neural network pruning methods
 
