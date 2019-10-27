@@ -1,4 +1,3 @@
-## ShrinkBench
 
 <style>
 body {
