@@ -1,7 +1,15 @@
 ## ShrinkBench
 
-Benchmark library for neural network pruning written in PyTorch
+Open source PyTorch library to facilitate development and  standardized evaluation of neural network pruning methods
 
-Code is [here](https://github.com/shrinkbench/shrinkbench)
+![](diagram.svg)
 
-Documentation coming soon!
+Presented at SOSP2019 AI Systems Workshop. 
+
+- [Paper](jjgo-aisystems2019.pdf)
+- [Slides](slides-sosp19-aisystems-shrinkbench-v3.pdf)
+
+Repo with code is [github.com/shrinkbench/shrinkbench](https://github.com/shrinkbench/shrinkbench)
+
+
+
